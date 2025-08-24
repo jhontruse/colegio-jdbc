@@ -35,3 +35,4 @@ build/
 logs/
 *.log
 application-*.properties.local
+.DS_Store
